@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Himanshu Vachhani</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Himanshu+Vachhani....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🔭 I’m currently working on **Employee expense management and tracking tool**
