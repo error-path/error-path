@@ -20,10 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/himanshu vachhani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vachhani" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/its_error" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_error" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/complxd_log" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="complxd_log" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/himanshuvachhani003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshuvachhani003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/himanshu vachhani" target="blank" title="LinkedIn Profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu vachhani" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/its_error" target="blank" title="Codechef Profile"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="its_error" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/complxd_log" target="blank" title="Codeforces Profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="complxd_log" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/himanshuvachhani003" target="blank" title="Leetcode Profile"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshuvachhani003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
