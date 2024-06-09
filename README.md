@@ -9,13 +9,29 @@
 
 - 🔭 I’m currently working on **Employee expense management and tracking tool**
 
-- 🌱 I’m currently learning **React.js,Typescript**
+- 🌱 I’m currently learning **React.js, Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/error-path?tab=repositories](https://github.com/error-path?tab=repositories)
 
 - 📫 How to reach me **202101475@daiict.ac.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SKAvB2bNzBPIdyUveP1bpLHzwyEyG4in/view?usp=drive_link](https://drive.google.com/file/d/1SKAvB2bNzBPIdyUveP1bpLHzwyEyG4in/view?usp=drive_link)
+
+## Tech Stack:
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black)
+
+![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=black)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
